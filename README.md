@@ -17,3 +17,6 @@ $ python main.py phone_number<br>
 - Telegram : https://t.me/gfsteamind
 - Email : uklteam22@gmail.com
 - Whatsapp : https://bit.ly/2y4u7RO
+
+# Special Thx
+ Jejaka Tutorial
