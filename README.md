@@ -1,4 +1,4 @@
-# Link ZecClickBot Telegram
+# Link BTCClickBot Telegram
 Hargai Refferal : https://t.me/BitcoinClick_bot?start=Q2tI
 
 # Cara Install 
@@ -14,6 +14,6 @@ $ python main.py phone_number<br>
 - Bisa Menggunakan Nomor Luar/ID, Syarat Input Nomor : python main.py 62813****** / python main.py 1315*******
 - Input OTP
 - And Happy Mining
+- Telegram : https://t.me/gfsteamind
 - Email : uklteam22@gmail.com
-- Facebook Group : https://www.facebook.com/groups/localheart/
-- Youtube Channel : https://youtube.com/localheart
+- Whatsapp : https://bit.ly/2y4u7RO
