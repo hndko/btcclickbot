@@ -4,7 +4,7 @@ Hargai Refferal : https://t.me/BitcoinClick_bot?start=Q2tI
 # Cara Install 
 $ apt update && pkg upgrade<br>
 $ apt install python git<br>
-$ git clone https://github.com/kyuoko/btcclickbot<br>
+$ git clone https://github.com/kyo1337/btcclickbot<br>
 $ cd btcclickbot<br>
 $ pip3 install -r requirements.txt<br>
 $ python3 main.py phone_number<br>
@@ -15,9 +15,7 @@ $ python3 main.py phone_number<br>
 - And Happy Mining
 
 # Media Sosial :
-- Telegram : https://t.me/gfsteamind
-- Email : uklteam22@gmail.com
-- Whatsapp : https://bit.ly/2y4u7RO
+- https://linktr.ee/doko1554
 
 # Special Thx
  Jejaka Tutorial
